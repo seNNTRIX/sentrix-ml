@@ -1,0 +1,7 @@
+# Pinned as in sentrix-collection (requirements.txt + requirements-research.txt).
+PyYAML==6.0.2
+pandas==2.2.3
+pyarrow==18.1.0
+scikit-learn==1.5.2
+lightgbm==4.5.0
+# Optional: R6 model comparison (xgboost, catboost), BARO baseline (RCAEval), R8 MiniLM (sentence-transformers)
